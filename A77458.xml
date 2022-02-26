@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Brief relation of the plague at Naples, in the year M.DC.LVI. Where died 10, some days 15, and one day 20000 at least, (some say 25000) and the next day but 500. : With observations, preservatives, and cures. / Translated out of Italian into English.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77458</idno>
+            <idno type="STC">Wing B4629aA</idno>
+            <idno type="STC">ESTC R173280</idno>
+            <idno type="EEBO-CITATION">45504355</idno>
+            <idno type="OCLC">ocm 45504355</idno>
+            <idno type="VID">171655</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77458)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171655)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2584:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Brief relation of the plague at Naples, in the year M.DC.LVI. Where died 10, some days 15, and one day 20000 at least, (some say 25000) and the next day but 500. : With observations, preservatives, and cures. / Translated out of Italian into English.</title>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Grismond,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures:</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Plague --  Italy --  Naples --  Treatment.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171655:1" rendition="simple:additions"/>
+            <p>A Brief Relation OF THE PLAGUE AT NAPLES, In the Year <hi>M.DC.LVI.</hi>
+            </p>
+            <p>Where died 10, ſome days 15, and one day 20000 at leaſt, (ſome ſay 25000) and the next day but 500.</p>
+            <p>With Obſervations, Preſervatives, and Cures.</p>
+            <p>Tranſlated out of <hi>Italian</hi> into <hi>Engliſh.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Griſmond,</hi> 1665.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:171655:2"/>
+            <pb n="1" facs="tcp:171655:2"/>
+            <head>A Brief Relation OF <hi>The PLAG<g ref="char:V">Ʋ</g>E at NAPLES,</hi> In the Year <hi>M.DC.LVI.</hi> &amp;c.</head>
+            <head type="sub">A Conſultation made for the Sickneſs then raging and reigning, by the ſubſcribed Phyſicians of this moſt Faithful City, by order of the moſt Illuſtrious Magi<g ref="char:EOLhyphen"/>ſtrates deputed for the Office of Health.</head>
+            <p>
+               <note place="margin">
+                  <p>As for the diſtinction of the Spotted Feaver and Purples, and that which is called the Tokens, thus much is obſerved, That upon the inciſion of the Spots of the firſt two, there will ariſe a little Bloud or Gleeting; but if the Tokens be cut, there will nothing of either ariſe, the whole Bloud or Juice being ſuppoſed to have ſome touch of a Gangrene or <hi>Sphacelation.</hi>
+                  </p>
+                  <p>And as to the Bubo's Venereal and Peſtilential, they are ſuppoſed to be thus diſtinguiſhed, that the Peſtilential Tumours lie lower in the Groin.</p>
+               </note>
+               <seg rend="decorInit">I</seg>N the Opening and Diſſecting at that time of two dead bodies, one of a Man, the other of a Wo<g ref="char:EOLhyphen"/>man, on the firſt of <hi>June</hi> in the year 1656, by order from His Excellence, and the moſt Illuſtri<g ref="char:EOLhyphen"/>ous Magiſtrates deputed by this moſt faithful City, about the Sick<g ref="char:EOLhyphen"/>neſs then riſe, it was obſerved by the moſt expert Anatomiſts <hi>Mar<g ref="char:EOLhyphen"/>co Aurelio Severino,</hi> and <hi>Felice Martorella,</hi> (with the aſſiſtance of the chief Phyſician and other Doctors) that all the Bowels were infected with black ſpots, that is to ſay, the Heart, Lungs, Liver, Stomach, and the Inteſtines; beſides, that the Bladder of Gall was plainly found to be full of black, viſcid, and very thick choler, which
+<pb n="2" facs="tcp:171655:3"/>pertinaciouſly ſtook to its Membrane; but above all, the veſſels of the Heart were full of a grumous and black bloud. And this was the ſummary of the Obſervation.</p>
+            <p>This being related by the ſame <hi>Signor Felice</hi> in an Aſſembly of the above-mentioned moſt Illuſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ious Magiſtrates, it was by them decreed, that together with the Signori <hi>Domenico Coccia, Onofrio Riccia, Carolo P<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gnataro, Franceſco Cafaro, Giovanni Giacomo Car<g ref="char:EOLhyphen"/>bonello, Carolo Joveue, Andrea di Mauro,</hi> and <hi>Salvator Borrello,</hi> aſſembled in one place, they ſhould determine and order what ought to be done, as well for the preſervation as for the cure of this Sickneſs: wherefore theſe being met in the houſe of the ſaid <hi>Sig<g ref="char:EOLhyphen"/>nor Felice,</hi> they ordered for Preventives, (as to remedies moſt eaſie and at hand) that it was greatly helpful, Firſt, to make in the houſes Fires with fumes of Roſemary, Bay-berries, Juniper, Frankincenſe, and the like. Secondly, Treakle-water, Treakle, Mithridate, Pills of <hi>Ruffus</hi> againſt the Plague. The compoſition of dry Figs, Rue, Walnuts, and Salt, which was King <hi>Mithridates</hi> Preſervative, and found in his Desk or Cabinet written with his own hand. The Ma<g ref="char:EOLhyphen"/>giſtral Bezoar Vineger made with Brimſtone, Rue, Garlick, Cloves, Saffron, and Walnuts: the uſe of which is to dip in a piece or ſlice of bread, and take it faſting. Good too are the powders of Bole-Armonick, Terra ſigillata, Terra di Malta, Citron ſeeds pounded, ſeeds of Baſil, powder of Scordium, or Water-germander of <hi>Con<g ref="char:EOLhyphen"/>trayerva</hi> (or inſtead of it, Virginia Snake-weed;) Bezoar-ſtone Eaſt and Weſt: all which, or any, may be taken in the pulp of Citron, ſharp O<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enges, or with juice of Limons. In the mouth they may hold crude Sulphur, Zedoary, Ariſtolochia or Birth-wort, Gentian, Carline, white Dittany, Maſter-wort, Angelica, Vervain, Vince-toxicum or Swallow-wort, Goats-rue, Juniper-berries, Bay-berries, Ivy berries, any one of theſe. To ſmell to (beſides the uſual Balls) they commended a Sponge well wet in Vineger and Treackle, or elſe to make little hollow boxes of Cyprus-wood, Juniper, or of the Bay tree, and therein to put Treackle, Vineger, and Rue: good alſo he ein are the Oils of yellow Amber and of Camphir. Let them anoint their Heart, Temples, Noſtrils, and the Wriſts with the Oil of Mat<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hiolus, or Treackle-water, or make a liniment of Trea<g ref="char:EOLhyphen"/>kle, juice of Limons, Saffron, Dittany, Carline, boiled together, wherewith anoint. There may be made alſo a compound Vineger to put into a Baſon, wherewith to bathe or wet the Hands, Wriſts,
+<pb n="3" facs="tcp:171655:3"/>and Noſtrils, by taking a quantity of Schaenanthus, roots of Carline, Nutmeg, Cloves, Benjoin, Calamus aromaticus, and boil all with a quantity of the beſt Vineger.</p>
+            <p>Of the ſame virtues to preſerve are other Magiſtral Remedies en<g ref="char:EOLhyphen"/>dowed; ſuch are the Antipeſtilential Elixir of <hi>Crollius,</hi> the great Electuary of <hi>Matthiolus,</hi> and his Oil of Scorpions, the Bezoartick Vineger of <hi>Erneſtus,</hi> the Diaſcordium of <hi>Fracaſtorius,</hi> and above all is commended the powder of <hi>Padre Gio. Baptiſta Eremitano,</hi> which was experimented in the Plague at <hi>Naples</hi> the age paſt, and now ob<g ref="char:EOLhyphen"/>ſerved with moſt happy ſucceſs by many Phyſicians. The Compo<g ref="char:EOLhyphen"/>ſition of it is thus:<lb/> ℞ Tormentil, red Sanders, white Dittany, burnt Harts-horn, Bole-Armoniack, fine Sugar, of each one dram, powder of Pearl, round Birth-wort, Cinamon, Gentian, red and white Coral, of each half a dram, Camphir two ſcruples: make all into a moſt fine powder. The doſe is half a dram at a time.</p>
+            <p>And you may take this in the water of Scorzonera, Cardilli, or juice of Limons. Alſo for a preſervative they may take one drop of the Great Dukes Oil<note place="margin">Duke of <hi>Fl<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>rence.</hi>
+               </note>, with ſome water of Goats-rue; and this too may do well in the Cure, increaſing onely the quantity of the Oil.</p>
+            <p>Laſt of all, leaving a world of Remedies which here might be ſet down, the moſt potent preſervative is the Elixir following:<lb/> ℞ Aloes Hepatick, beſt Cinamon; and Myrrhe, of each three drams; Cloves, Mace, Lignum Aloes, Maſtick, and Bole-Armoniack, of each half a dram; pure Sulphur four drams, Roſemary ſeven drams; macerate them all in Aqua-vitae; and accordingly draw off the liquor. The doſe is three or four drops at a time in Cardilli or Scorzonera water.<lb/> And thus much for the Preſervation.</p>
+            <p>Now for the Cure, 'tis neceſſary firſt to cleanſe the body, either upward by Vomits, or downward by Stools; and this ought to be done ſuddenly with all ſpeed, before that the ſtrength fails. The Vomit may be provoked with Antimony, or with its Infuſion, or by Vineger of Squills diſtilled with Scordium, Tormentil, Scabious, Ci<g ref="char:EOLhyphen"/>tron-ſeeds,roots of Aſrabacca and of Gentian; or elſe rather with Diaſarum Fernelii<note place="margin">The <hi>Scamm<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>niates</hi> are dangerou<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and diſap<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ved here.</note>. Downwards they may purge with ſyrup of Ro<g ref="char:EOLhyphen"/>ſes ſolutive, Confectio Hamech, Trifera Perſiea, or Rhubarb with
+<pb n="4" facs="tcp:171655:4"/>decoction of Tormentil, Scordium, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>amarinds, <hi>Contrayerva:</hi> and if this cannot be done or made ready timely enough, give four ounces of conſerve of Damask-roſes, with powder of Rhubarb, or with the Electuary of juice of Roſes, with a little of <hi>Contrayerva,</hi> or the like.</p>
+            <p>As for letting bloud, it ought to be determined from a great Fe<g ref="char:EOLhyphen"/>ver, from the ſtrength of the fick party, ebullition of the bloud, and inclination of Nature; limiting the place of bleeding conformable to the motion which ſhall be obſerved either in the upper, or lower, or cutaneous parts; ſtill remembring the advice of <hi>Oribaſius,</hi> to ſcarifie the calves of the legs in caſe of great Fevers or Fermen<g ref="char:EOLhyphen"/>tations.</p>
+            <p>After purging let them uſe all poſſible means to provoke ſweat by Diaphoreticks; for the which the berries of tree-Ivy (powdered and taken in the beſt wine, Carduus water, or other) are much prai<g ref="char:EOLhyphen"/>ſed: ſo flowers of Brimſtone the weight of two ſcruples; Treakle alſo, or the above-mentioned great Antidote of <hi>Matthiolus,</hi> taking the weight of three or four drams, with adding thereto a dram and half of the forenamed Magiſtral Powder of <hi>Padre Gio. Baptiſta Ere<g ref="char:EOLhyphen"/>mitano,</hi> in two ounces of Aqua-vitae. Good too is the ſalt of Aſh, the moſt cried-up remedy of <hi>Frederick vander Mye,</hi> in the Contagi<g ref="char:EOLhyphen"/>on of <hi>Breda,</hi> (which was moſt like ours) to take thereof the weight of twelve Grape-kernels in Carduus-water. 'Tis moreover an eaſie ſweat, pure Sulphur with Salt, boiled in Wine <hi>in balneo Mariae,</hi> or elſe that of <hi>Crollius.</hi>
+            </p>
+            <p>Let them inſiſt continually in the uſe of the above-named Anti-dotes, increaſing the doſe; not neglecting alſo to try the uſe of <hi>Chi<g ref="char:EOLhyphen"/>na Chinae,</hi>
+               <note place="margin">
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Jeſuites <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>wder.</note>the which for many reaſons may happen not to be a little helpful; and the more, that it is in many places the appropriate remedy for theſe diſtempers.</p>
+            <p>Laſtly, as to what pertains to the ſymptoms, that is, Bubo's or Botches, Puſtules, and Spots, you muſt note that if they come out kindly and with <hi>levamen,</hi> eaſe and relief, in ſuch caſe leave the work to Nature, helping their coming forth with Medicines emollient, relaxing, and attractive or drawing; ſuch as are Frictions, dry Cup<g ref="char:EOLhyphen"/>pings, or Scarifyings, Veſicatoirs or Bliſterings; the which, if the ſwellings are below, then apply them a few fingers beneath; if they be above, then apply them in like manner ſo far above on the
+<pb n="5" facs="tcp:171655:4"/>arms: noting that the ſaid remedy of Veſicatoirs may be changed in boiling Oil with Lime, applying them to the ſame parts; marking alſo, that if the ſaid Evil or Plague comes with a <hi>Coma,</hi> that is, a ſleeping, or other ſymptom in the Animal part, then the Bli<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er<g ref="char:EOLhyphen"/>ers ſhall be placed both on the upper and lower parts.</p>
+            <p>Concerning the Bubo's or ſwellings in the Groin, if they bunch out kindly, you may cure them with gentle means, ſuch as Oil of ſweet Almonds, Oil of Lilies, Butter, Hens greaſe, or elſe with the ſimple Oil of Scorpions, or Ointment of Marſh-mallows, with the roots of Lilies beaten in a Mortar.</p>
+            <p>But if the Bubo's come not out well, then look out more efficaci<g ref="char:EOLhyphen"/>ous Remedies, applying on the part Cupping-glaſſes with ſcarifica<g ref="char:EOLhyphen"/>tion, Leeches, Bliſters, as before; this done, apply thereon a Poul<g ref="char:EOLhyphen"/>teſs of Onions, Treackle, and Saffron, roſted in embers; after put<g ref="char:EOLhyphen"/>ting to ſome Hens-greaſe, or the like. If they be to be cut, open them half ripe with a cold Iron, paſſing thorow a Stuppe or Lint: and cure them with a compound Ointment of Gum Elemi, Ammo<g ref="char:EOLhyphen"/>niacum, and Turpentine, of each a like quantity, with a little Saf<g ref="char:EOLhyphen"/>fron, Wax, and Oil of Roſes as much as will ſuffice.</p>
+            <p>The Carbuncles, vulgarly by the Neapolitans call'd <hi>Ampolle,</hi> that is, Blains, are cured by cutting the part affected, ſcarifying it,<note place="margin">Good here t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſeer and bur<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with hot Irons.</note> and clapping thereto the ſame attractive or drawing Plaſter, or Trea<g ref="char:EOLhyphen"/>kle with Onion, or elſe the Poulteſs of Scabious, Hens-greaſe, and Treakle, hindering expreſly by all means the Uſtion or burning in the beginning, as well of the Carbuncles as of the Bubo's, that ſo the part may not be ſtrengthened: you muſt leave theſe Sores open by the Miſſaries or Voiders, and Emunctories of the body, for a long time.</p>
+            <p>This is what in brief and privately could be collected (for the haſte allotted us) concerning the Sickneſs now reigning: hereafter there ſhall a Diſcourſe be of the nature and of the occaſions of the ſame, and other Medicines ſhall be pro<g ref="char:EOLhyphen"/>poſed, according to the Obſervations that daily are made.</p>
+            <closer>
+               <dateline>NAPLES, <date>2 June 1656.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
